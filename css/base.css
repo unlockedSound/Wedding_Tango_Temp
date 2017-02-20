@@ -1,0 +1,21 @@
+body {
+  padding-top: 60px;
+  background-color: #FFEDEB;
+
+}
+
+p{
+  color: black;
+  text-align: center;
+  font-family: Savoye;
+  font-size: 6vw;
+  vmax: 600px;
+
+}
+
+
+@font-face {
+   font-family: Savoye;
+   src: url(Savoye_LET_Plain1.0.ttf);
+}
+
