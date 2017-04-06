@@ -1,21 +1,26 @@
 body {
-  padding-top: 60px;
-  background-color: #FFEDEB;
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #FFEDEB;
+    /*max-width: 1000px;*/
 
 }
 
-p{
-  color: black;
-  text-align: center;
-  font-family: Savoye;
-  font-size: 6vw;
-  vmax: 600px;
+p {
+    color: black;
+    text-align: center;
+    font-family: Savoye;
+    font-size: 6vw;
+    vmax: 600px;
 
 }
-
 
 @font-face {
-   font-family: Savoye;
-   src: url(Savoye_LET_Plain1.0.ttf);
+    font-family: Savoye;
+    src: url(Savoye_LET_Plain1.0.ttf);
 }
 
+a{
+    color: black;
+}
